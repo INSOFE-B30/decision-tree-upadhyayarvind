@@ -43,7 +43,7 @@ rm(list = ls(all=TRUE))
 Make sure the dataset is located in your current working directory, or else you can change your working directory using the "setwd()" function.
 
 ```{r}
-setwd("E:\\INSOFE\\20170730_Batch30_CSE7305c_KNN_CBF_LabActivity\\20170730_Batch30_CSE7305c_KNN_CBF_LabActivity")
+setwd("C:\\Users\\Arvind\\Downloads\\20170723_Batch30_CSE7305_DecisionTrees_assignment")
 data <- read.csv("ilpd_data.csv")
 
 
